@@ -1,0 +1,13 @@
+ITEM_NAME=Sapphire necklace
+TYPE=5
+ITEM_LEVEL=4
+ITEM_STR=0
+ITEM_DEX=0
+ITEM_WIS=30
+ITEM_HP=0
+ITEM_MANA=0
+ITEM_AC=0
+ITEM_MAX_HP=0
+ITEM_MAX_MANA=30
+ITEM_COST=55
+ITEM_SPRITE=assets/item_sprites/sapphire_necklace-1.png.png

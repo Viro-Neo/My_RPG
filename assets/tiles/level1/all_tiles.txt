@@ -1,0 +1,6 @@
+assets/tiles/level1/shade.png=e
+assets/tiles/level1/wall_top1.png=o
+assets/tiles/level1/floor.png=_
+assets/tiles/level1/wall_bricks_plain.png=x
+assets/tiles/level1/door.png=d
+assets/tiles/level1/stairs-1.png.png=w

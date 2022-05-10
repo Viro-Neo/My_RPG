@@ -1,0 +1,32 @@
+Explorez un donjon genere de facon aleatoire, acceptez des quetes et tuez des monstres, gagnez des equipements puissants au fur et a mesure et affrontez le boss pour
+passer au niveau suivant.
+
+Au debut du jeu, un menu s'affiche pour vous permettre de commencer a jouer ou de passer en revue les parametres afin de jouer comme vous le souhaitez, avec la possibilite
+de changer le volume, de mettre le jeu en plein ecran et de relier vos touches.
+
+Une fois que vous entrez dans le donjon, vous commencerez dans une piece sans ennemis, commencez a explorer et passez par differentes pieces ou vous trouverez des
+ennemis, ou des PNJ qui vous donneront des quetes ou vous vendront des objets de valeur.
+Avant de vous lancer dans l'exploration, n'oubliez pas de consulter votre inventaire et d'equiper l'objet aleatoire qui vous a ete donne au debut du jeu.
+Vous pouvez appuyer sur la touche "agir" et selectionner "objets" pour aller dans votre inventaire, vous pouvez ensuite appuyer sur la touche "confirmer" lorsque vous
+selectionnez un objet pour l'equiper, le desequiper ou l'utiliser.
+
+Lorsque vous entrez dans une piece ennemie, vous pouvez selectionner d'autres options dans le menu "agir".
+Vous pouvez selectionner "attaquer" a cote d'un ennemi pour lui infliger des degats ou vous pouvez selectionner "sorts" qui vous permettra d'utiliser un sort que vous
+avez appris.
+Vous apprendrez d'autres sorts au fur et a mesure que vous gagnerez des niveaux en battant des ennemis et en accomplissant des quetes.
+
+Attention, attaquer, lancer des sorts et meme se deplacer consomment vos points d'action lorsque vous etes dans une piece ennemie. Lorsque vous n'en avez plus, c'est au tour
+de l'ennemi d'utiliser les siens pour tenter de vous vaincre.
+Les ennemis commenceront a se deplacer vers vous si vous etes assez proche et vous attaqueront s'ils entrent dans leur propre portee d'attaque.
+
+Certains ennemis peuvent appliquer des debuffs qui rendront le combat plus difficile.
+Une fois que tous les ennemis d'une piece ont ete vaincus, vous obtenez un objet aleatoire en recompense et vous pouvez quitter la piece pour continuer a explorer le donjon.
+
+Vous pouvez interagir avec eux en utilisant la "cle d'interaction" qui declenchera une quete ou vous permettra d'acheter des objets en fonction du type de PNJ, assurez-vous
+de verifier les PNJ de la boutique pour voir si vous pouvez ameliorer votre equipement en utilisant l'or que vous avez gagne en battant les ennemis.
+
+En parcourant les salles du donjon, vous tomberez sur une porte verrouillee, c'est la porte de la salle du boss, la porte peut etre ouverte si vous avez la cle du boss dans
+votre inventaire. Vous devez explorer le donjon jusqu'a ce que vous l'obteniez pour progresser dans le jeu.
+
+Une fois dans la salle du boss, vous serez confronte a un adversaire plus fort que ceux que vous avez vus jusqu'a present, le vaincre vous permettra d'acceder au niveau
+suivant ou de nouveaux objets et ennemis vous attendent.

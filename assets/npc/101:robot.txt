@@ -1,0 +1,8 @@
+NAME=Robot
+X=14
+Y=7
+TYPE=3
+TEXT=I am a robot! nice to meet you! now give me your money!
+QUEST_ID=1
+PATH_SPRITE=assets/npc/sprite/101:robot
+PATH_AVATAR=assets/npc/avatar/101:robot_avatar

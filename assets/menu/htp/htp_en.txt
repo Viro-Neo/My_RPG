@@ -1,0 +1,29 @@
+Explore a randomly generated dungeon, accept quests and slay monsters, gain powerful equipment as you go and take on the boss to move on to the next level.
+
+As the game starts you will be shown a menu allowing you to start playing, or go trhough setting in order to play the way you prefer, with the ability to change volume, make the
+game fullscreen, and rebind your keys.
+
+Once you enter the dungeon you will start in a room whithout enemies, start exploring and go through different rooms where you will find enemies, or npc's that will give you
+quests or sell you valuable items.
+Before you go ahead and explore, don't forget to look at your inventory and equip the random item you were given to start the game.
+You can press the "act" key and select "items" to go to  our inventory, you can then press the "confirm" key when selecting an item to equip, unequip, or use it.
+
+Once you enter an ememy room, you will be able to select other options in the "act" menu.
+You can select "attack" next to an enemy to deal damage to that enemy or you can select "spells" which will let you use a spell you have learned, you will learn more spells as
+you level up by defeating foes and completing quests.
+
+Beware, attacking, casting spells and even moving use up your "action" points when in an enemy room, when you no longer have any, it will be the enemy's turn to use their's to 
+try and defeat you.
+Enemies will start moving towards you if you are close enough and will attack you if they enter their own attack range.
+
+Some enemies can apply debuffs which will make the fight harder.
+Once all enemies in a room have been defeated, you gain a random item as a reward and can leave the room to further explore the dungeon.
+
+Some rooms do not contain enemies but instead contain friendly npc's, you can interact with them using the "interact key" which will either trigger a quest or let you purchase
+items depending on the type of npc, make sure to check back on shop npc's to see if you can upgrade your gear using the gold you gained by defeating enemies.
+
+As you scour through the rooms of the dungeon, you will stumble upon a locked door, it is the door to the boss room, the door can be opened if you have the boss key in your
+inventory. You need to explore the dungeon until you acquire it to progress through the game.
+
+Once you enter the boss room, you will be challenged by an opponent stronger then the ones you have seen thus far, defeating it will unlock the way to the next level where new
+items and enemies await.

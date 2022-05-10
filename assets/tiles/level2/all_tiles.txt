@@ -1,0 +1,6 @@
+assets/tiles/level2/level_2_floor-1.png.png=e
+assets/tiles/level2/level_2_obstacle-1.png.png=o
+assets/tiles/level2/level_2_floor-1.png.png=_
+assets/tiles/level2/level_2_wall-1.png.png=x
+assets/tiles/level1/door.png=d
+assets/tiles/level1/stairs-1.png.png=w
