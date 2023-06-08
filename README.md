@@ -1,4 +1,4 @@
-# My_RPG / CFML Project Tek 1 Epitech
+# My_RPG / CSFML Project Tek 1 Epitech
 
 Carried on with 
 * Ulysse Villanueva: github.com/uvillanueva
